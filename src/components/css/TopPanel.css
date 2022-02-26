@@ -1,0 +1,58 @@
+.top-panel-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    background-color: black;
+    padding: 0 8px;
+}
+
+.logo{
+    background-color: rgba(252, 252, 252, 0.164);
+    border-radius: 20px;
+    padding: 0 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.linux-icon{
+    font-size: 30px !important;
+}
+
+.time{
+    color: white;
+    cursor: pointer;
+}
+
+.time:hover{
+    background-color: rgba(252, 252, 252, 0.164);
+    border-radius: 20px;
+    padding: 6px 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.top-panel-links{
+    width: 100px;
+    color: white !important;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.social{
+    font-size: 20px;
+    padding: 6px;
+    cursor: pointer;
+}
+
+.social:hover{
+    background-color: rgba(252, 252, 252, 0.164);
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
