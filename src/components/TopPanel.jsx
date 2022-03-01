@@ -12,7 +12,7 @@ function TopPanel() {
                 <FcLinux className='linux-icon' />
                 LUG VITCC
             </div>
-            <div className="time">12:03</div>
+            <div className="time"></div>
             <div className="top-panel-links">
                 <FaGlobe className='social' />
                 <AiFillGithub className='social' />

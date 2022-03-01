@@ -19,7 +19,7 @@ function Dock() {
                 <FcPlanner className='nav-icon' />
             </div>
         </div>
-    </div>
+      </div>
   )
 }
 
